@@ -1,0 +1,24 @@
+body {
+  margin-top: 40px;
+  background-color: #DDD;
+}
+
+.image-signature {
+  width: 200px;
+}
+
+.title-header-section h1, h3 {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h3 {
+  font-size: 2.3em;
+}
+
+.timeline-list li {
+  margin: 10px 0;
+}
+
+.line-separator {
+  width: 70%
+}
